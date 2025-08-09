@@ -28,7 +28,7 @@ permnentemente ou, abrir pastas e ver os subitens
 
 | Módulos | Descrição |
 | ---- | ---- |
-| pywin32 | Terá que baixar |
-| tkinter | Interno no python |
-| os | Interno no python 3.5+ |
-| shutil | Interno no python 3.6+ |
+| `pywin32` | Terá que baixar |
+| `tkinter` | Interno no python |
+| `os` | Interno no python 3.5+ |
+| `shutil` | Interno no python 3.6+ |
