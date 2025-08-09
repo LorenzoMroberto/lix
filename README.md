@@ -23,6 +23,9 @@ Software que vê itens da lixeira do Windows 10/11
 | Restaurar arquivos | ❌ Não |
 | Seleção em lote | ❌ Não |
 
+O script manipula itens da lixeira, como excluir 
+permnentemente ou, abrir pastas e ver os subitens
+
 | Módulos | Descrição |
 | ---- | ---- |
 | pywin32 | Terá que baixar |
